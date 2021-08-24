@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
-import { policy } from './../model/policy';
+// import { policy } from './../model/policy';
 
 @Component({
   selector: 'app-modal',

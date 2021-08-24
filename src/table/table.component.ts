@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { policy } from './../model/policy';
+//import { policy } from './../model/policy';
 import { PolicyService } from '../services/policy.service';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ModalComponent } from '../modal/modal.component';

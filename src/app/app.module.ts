@@ -29,7 +29,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     HttpClientModule,
     ChartsModule,
     FormsModule,
-    NgbModule.forRoot()
+    NgbModule
   ],
   providers: [PolicyService],
   bootstrap: [AppComponent]
